@@ -1,7 +1,10 @@
+/sd-repo https://github.com/cctechwiz/simmerdown
+/sd https://simmerdown.netlify.app/
+
 /blog https://blog.cctechwiz.com
 /twitter https://twitter.com/cctechwiz
 /github https://github.com/cctechwiz
 /linkedin https://www.linkedin.com/in/cctechwiz/
 
-/edit https://github.com/cctechwiz/netlify-url-shortener/edit/master/_redirects
+/edit https://github.com/cctechwiz/netlify-url-shortener/edit/main/_redirects
 /*  https://blog.cctechwiz.com
